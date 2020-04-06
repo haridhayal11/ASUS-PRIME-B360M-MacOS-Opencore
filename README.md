@@ -18,9 +18,9 @@ Everything
 ## Instructions
 
 1. Download these
-                - EFI folder from this repo.
-                - ProperTree https://github.com/corpnewt/ProperTree
-                - GenSMBIOS https://github.com/corpnewt/GenSMBIOS
+   - EFI folder from this repo.
+   - ProperTree https://github.com/corpnewt/ProperTree
+    - GenSMBIOS https://github.com/corpnewt/GenSMBIOS
 2. Copy the EFI folder to the root of EFI Partition. (delete everything else before doing this)
 3. Run ProperTree and open EFI/OC/config.plist
 4. Follow this guide https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/post-install/post-install/iservices to fix iServices (Use iMac19,1).
