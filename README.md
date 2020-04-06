@@ -4,7 +4,7 @@
 Everything
 
 
-## My Configuration
+## Configuration
 
 | Components  | Mine | Compatible |
 | ------------- | ------------- | ------------- |
@@ -12,7 +12,7 @@ Everything
 | CPU  | Intel Core i5-8600 (non-k)  | Any Intel 8th Generation  |
 | RAM  | 16GB 2666Mhz (2x8GB) | Any  |
 | GPU  | RX 580 (iGPU disabled in BIOS)  | RX 560, 570, 580, 590 , VEGA56, VEGA64, 5500 XT, 5600, 5600 XT, 5700, 5700 XT, Radeon VII  |
-| SMBIOS  | iMac19,1  |
+| SMBIOS  | iMac19,1  | iMac19,1  |
 
 
 ## Instructions
