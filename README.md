@@ -29,3 +29,11 @@ Everything
 3. Run ProperTree and open EFI/OC/config.plist
 4. Follow this guide https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html to fix iServices (Use iMac19,1).
 5. Save and Reboot.
+
+
+## Screenshots
+
+![Screenshot](images/1.png)
+![Screenshot](images/2.png)
+![Screenshot](images/3.png)
+![Screenshot](images/4.png)
