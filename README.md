@@ -1,8 +1,8 @@
 # ASUS-PRIME-B360M-MacOS-Opencore
 
-OpenCore Version : 0.6.0
+OpenCore Version : 0.6.1
 
-MacOS version    : 10.15.6
+MacOS version    : 11.0
 
 ## What Works
 Everything
@@ -33,7 +33,3 @@ Everything
 
 ## Screenshots
 
-![Screenshot](images/1.png)
-![Screenshot](images/2.png)
-![Screenshot](images/3.png)
-![Screenshot](images/4.png)
