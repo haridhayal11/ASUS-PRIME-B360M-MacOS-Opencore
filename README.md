@@ -1,8 +1,8 @@
 # ASUS-PRIME-B360M-MacOS-Opencore
 
-OpenCore Version : 0.6.1
+OpenCore Version : 0.6.3
 
-MacOS version    : 11.0
+MacOS version    : 11.0.1
 
 ## What Works
 Everything
